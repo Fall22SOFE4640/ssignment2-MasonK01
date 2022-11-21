@@ -16,8 +16,6 @@ This is my submission for assignment 2 (Mason Koitsan: 100749078). Some of the f
 
 ![image](https://user-images.githubusercontent.com/81596630/202937636-9d63b4a0-94d2-4610-8baa-f66f0e76d3db.png)
 
-![image](https://user-images.githubusercontent.com/81596630/202937649-9a7bb74c-b071-4317-8887-c91d57f0249b.png)
-
 ![image](https://user-images.githubusercontent.com/81596630/202937665-d42d14b0-1c67-4456-9601-ee9275172fb7.png)
 
 ![image](https://user-images.githubusercontent.com/81596630/202937682-bee025c5-795f-4b1d-a9f9-c0ccf9a373b4.png)
